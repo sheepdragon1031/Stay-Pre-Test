@@ -1,4 +1,5 @@
 Stay Pre-Test
+
   測驗內容
   以下測驗內容請使用 JavaScript ES5+ 實作。
 *   實作 Fibonacci number (費式數列)
